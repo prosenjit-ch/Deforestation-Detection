@@ -31,6 +31,8 @@ After evaluating different variants of the U-Net, we found that our Modified U-N
 ![Screenshot (33)](https://github.com/prosenjit-ch/Deforestation-Detection/assets/116121494/15690951-82d5-44ab-a8d3-9c7a1652ce71)
 
 
+Figure implementation 5(e) represents the detected deforested area. 
+
 
 
 
